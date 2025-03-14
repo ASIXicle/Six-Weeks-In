@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: "SMBW";
     src: local("Super-Mario-World.ttf") format('truetype');
@@ -12,6 +13,9 @@
     font-family: "SMBW3";
     src: url("Super-Mario-Bros--3.ttf") format('truetype');
 }
+
+
+
 
 header {
   border-bottom: 3px solid #ff3939;
@@ -36,6 +40,6 @@ body {
   font-family: SMBW2;
   line-height: 2;
   margin: 1rem;
-  max-width: 1280px;
-  background-color: #ffce29;
+  max-width: 100%;
+  background-color: #ffce29;	
 }
