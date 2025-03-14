@@ -24,7 +24,7 @@ header {
 }
 
 footer {
-  border-top: 8px solid #ff3939;
+  border-top: 7px solid #ff3939;
   margin-top: 1rem;
   font-family: SMBW2;
 }
@@ -40,6 +40,6 @@ body {
   font-family: SMBW2;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 1280px;
+  max-width: 100%;
   background-color: #ffce29;	
 }
